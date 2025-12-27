@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* Theme variables and base styles for light / dark switching. */
+/* :root {
+	--bg: #ffffff;
+	--fg: #111827;
+	--muted: #6b7280;
+	--input-bg: transparent;
+}
+
+.dark {
+	--bg: #0b1220;
+	--fg: #e5e7eb;
+	--muted: #9ca3af;
+	--input-bg: rgba(255,255,255,0.03);
+}
+
+html, body, #root {
+	height: 100%;
+}
+
+body {
+	background-color: var(--bg);
+	color: var(--fg);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+} */
+
+/* Make inputs inherit text color by default so utilities like `text-current` work well */
+/* input, textarea, button {
+	color: inherit;
+	background-color: var(--input-bg);
+}
+
+.placeholder-current::placeholder {
+	color: currentColor;
+} */
